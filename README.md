@@ -1,1 +1,1 @@
-# Ecommerce-App-task-internship-PITA
+# Ecommerce-App-Task-Internship-PITA
